@@ -15,3 +15,5 @@ part of the array each recursive call considers.
 Analyse the time complexity of your implementation and give a $\Theta$ bound for
 its worst-case runtime. Add your answer, including your reasoning, to this
 markdown file.
+
+I believe in 2030 we learned that the regular mergesort has a complexity of $\Theta(nlog(n))$, but here thanks to the logic that merges the split arrays and moves elements around that is nested inside the loops would make it  $\Theta(n^{2}log(n))$.

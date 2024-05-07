@@ -1,4 +1,5 @@
 //used replit AI tool to help get "last" to be as intended(marked in code)
+//I also veiwed the repositories of Ishita Patel,Keifer Buss, Cian Melker, and Caden McFate to look for inspiration for some of the functions I wanted to make or operate a certain way
 function mergesort(array) {
     //console.log(array);
     
